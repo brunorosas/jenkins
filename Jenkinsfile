@@ -17,6 +17,7 @@ pipeline {
        stage('Gracias Totales') {
            steps {
                echo 'Gracias Totales'
+               echo 'Gracias totales dobles'
            }
        }
       
