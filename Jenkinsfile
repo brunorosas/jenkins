@@ -19,6 +19,7 @@ pipeline {
            steps {
                echo 'Gracias Totales'
                echo 'Gracias totales dobles'
+               echo 'Gracias totales triple'
            }
        }
       
